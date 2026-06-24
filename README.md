@@ -6,7 +6,7 @@ A machine learning project that segments mall customers using K-Means  clusterin
 This project applies the K-Means Clustering algorithm to segment customers based on their annual income and spending behavior. The objective is to identify distinct customer groups that can help businesses develop targeted marketing strategies.
 
 # Dataset
-This dataset obtained from kaggle
+This dataset obtained from kaggle.
 The dataset contains customer information, including:
 
 1.Customer ID<br>
@@ -23,21 +23,20 @@ The dataset contains customer information, including:
 5.Scikit-learn
 
 # Project Workflow
-Data Loading and Exploration
-Data Preprocessing
-Exploratory Data Analysis (EDA)
+Data Loading and Exploration<br>
+Data Preprocessing<br>
+Exploratory Data Analysis (EDA)<br>
 Determining the Optimal Number of Clusters using:
-Elbow Method
-Silhouette Score
-Applying K-Means Clustering
-Visualizing Customer Segments
-Visualizations
-Elbow Method Graph
-Silhouette Score Graph
+Elbow Method<br>
+Silhouette Scorev
+Applying K-Means Clustering<br>
+Visualizing Customer Segments<br>
+Visualizations<br>
+Elbow Method Graph<br>
+Silhouette Score Graphv<br>
 Pair Plot
-Customer Segmentation Scatter Plot
-Results
-
+Customer Segmentation Scatter Plot<br>
+Results<br>
 The K-Means algorithm successfully segmented customers into meaningful groups based on their purchasing behavior and annual income.
 
 # Repository Structure
