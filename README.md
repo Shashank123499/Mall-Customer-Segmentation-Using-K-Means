@@ -37,7 +37,8 @@ Silhouette Score Graphv<br>
 Pair Plot
 Customer Segmentation Scatter Plot<br>
 Results<br>
-The K-Means algorithm successfully segmented customers into meaningful groups based on their purchasing behavior and annual income.
+The K-Means algorithm successfully segmented customers into meaningful groups based on their purchasing behavior and annual income.<br>
+Silhouette_Score is : 55.48
 
 # Repository Structure
 
