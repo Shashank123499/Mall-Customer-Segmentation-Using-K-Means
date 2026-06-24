@@ -52,8 +52,8 @@ The K-Means algorithm successfully segmented customers into meaningful groups ba
 │ └── customer_segments.png
 
 # Future Improvements
-Try other clustering algorithms such as DBSCAN and Hierarchical Clustering.
+Try other clustering algorithms such as DBSCAN and Hierarchical Clustering.<>br
 Deploy the project as a web application.
-Author
 
+# Author
 Shashank Awasthi
